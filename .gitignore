@@ -9,3 +9,7 @@ coverage/
 Thumbs.db
 AGENTS.md
 .idea
+
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
